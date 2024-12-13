@@ -36,6 +36,10 @@ Projeto de PWII do Profº Jacques de autenticação utilizando o firebase
 
 * Ira aparecer alguma mensagem se der erro com seu e-mail, ou senha
 
-## Vercel aqui está o código para entrar no vercel e testa
+## Aqui está o código para entrar no vercel e testar
+
+* Caso não funcione no google, tente pelo Edge!
+
+https://login-firebase-ten-cyan.vercel.app/
 
 
