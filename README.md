@@ -25,6 +25,8 @@ Projeto de PWII do Profº Jacques de autenticação utilizando o firebase
 
 * Onde a pessoa vai poder efetuar seu login
 
+![Login](https://github.com/user-attachments/assets/64c2d772-9b35-4073-a02d-c8f5eef5b25e)
+
 ## Redefinir Senha
 
 * Para redefinir a senha, siga estes passos:
