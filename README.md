@@ -34,6 +34,8 @@ Projeto de PWII do Profº Jacques de autenticação utilizando o firebase
 * Clique em Esqueceu sua senha
 * Insira seu e-mail e siga as instruções enviadas para redefinir sua senha.
 
+![Redefinir senha](https://github.com/user-attachments/assets/909c37b9-2912-448f-9cdf-d787a345d5c9)
+
 ## Validação e Tratamento de Erros
 
 * Ira aparecer alguma mensagem se der erro com seu e-mail, ou senha
