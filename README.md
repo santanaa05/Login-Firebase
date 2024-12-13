@@ -21,6 +21,8 @@ Projeto de PWII do Profº Jacques de autenticação utilizando o firebase
 
 * A origem de cadastro do usuario
 
+![Cadastro](https://github.com/user-attachments/assets/18c1566c-c0a8-46eb-8cdb-1650ec1e8b6c)
+
 ## Login de usuários
 
 * Onde a pessoa vai poder efetuar seu login
